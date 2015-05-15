@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tank" size="50.000000 50.194553" />
+    <ImageTarget name="Gate" size="100.000000 110.154343" />
+    <ImageTarget name="TowerV2" size="100.000000 111.111115" />
+    <ImageTarget name="QRsample" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
