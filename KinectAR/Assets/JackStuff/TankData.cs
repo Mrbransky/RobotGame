@@ -3,11 +3,11 @@ using System.Collections;
 
 public class TankData : MonoBehaviour {
 
-	int weaponLevel = 1;
-	int armorLevel = 1;
-	int health = 50;
+	public int weaponLevel = 1;
+	public int armorLevel = 1;
+	public int health = 50;
 
-	bool isStunned;
+	public bool isStunned;
 
 
 }
